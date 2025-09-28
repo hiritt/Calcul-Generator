@@ -1,0 +1,17 @@
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\bin\Debug\net8.0-windows\Generare calcule.exe
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\bin\Debug\net8.0-windows\Generare calcule.deps.json
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\bin\Debug\net8.0-windows\Generare calcule.runtimeconfig.json
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\bin\Debug\net8.0-windows\Generare calcule.dll
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\bin\Debug\net8.0-windows\Generare calcule.pdb
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\obj\Debug\net8.0-windows\Generare_calcule.Form1.resources
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\obj\Debug\net8.0-windows\Generare calcule.csproj.GenerateResource.cache
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\obj\Debug\net8.0-windows\Generare calcule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\obj\Debug\net8.0-windows\Generare calcule.AssemblyInfoInputs.cache
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\obj\Debug\net8.0-windows\Generare calcule.AssemblyInfo.cs
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\obj\Debug\net8.0-windows\Generare calcule.csproj.CoreCompileInputs.cache
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\obj\Debug\net8.0-windows\Generare calcule.dll
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\obj\Debug\net8.0-windows\refint\Generare calcule.dll
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\obj\Debug\net8.0-windows\Generare calcule.pdb
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\obj\Debug\net8.0-windows\Generare calcule.genruntimeconfig.cache
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\obj\Debug\net8.0-windows\ref\Generare calcule.dll
+C:\Users\hirit\OneDrive\Desktop\Generare calcule\Generare calcule\obj\Debug\net8.0-windows\Generare_calcule.Properties.Resources.resources
